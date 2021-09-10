@@ -1,0 +1,14 @@
+{
+  "name": "d4all-api",
+  "version": "1.0.0",
+  "description": "This is a Express API for Service in Drones4All",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.5.0"
+  }
+}
